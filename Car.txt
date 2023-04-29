@@ -6,3 +6,5 @@ Baz kodlar yazdım
 
 burada çakışma olacak
 
+diğer developer buraa kod yazdı
+
