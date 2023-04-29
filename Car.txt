@@ -1,4 +1,8 @@
 Bazı değişiklikler yaptım.
 Remote da codelar ekliyorum.
 
+
 Baz kodlar yazdım
+
+burada çakışma olacak
+
