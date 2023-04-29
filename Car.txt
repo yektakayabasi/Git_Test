@@ -7,4 +7,9 @@ Baz kodlar yazdım
 burada çakışma olacak
 
 
+
 Yekta branchi kod yazdı
+
+
+
+
