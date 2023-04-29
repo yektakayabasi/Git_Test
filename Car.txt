@@ -1,2 +1,4 @@
 Bazı değişiklikler yaptım.
 Remote da codelar ekliyorum.
+
+Baz kodlar yazdım
